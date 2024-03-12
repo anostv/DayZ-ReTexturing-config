@@ -24,7 +24,7 @@ class CfgVehicles
     class cappgloves: TacticalGloves_ColorBase              // custom_gloves can be change to whatever you want the class name of your custom gloves to be
     {
         displayName="Tactical Gloves";               // Display name of item ingame
-        descriptionShort="Write a short description of your beanie here if you like, or remove this text";
+        descriptionShort="Write a short description of your gloves here if you like, or remove this text";
         scope=2;
         hiddenSelectionsTextures[]=
         {
