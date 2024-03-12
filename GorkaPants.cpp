@@ -24,9 +24,9 @@ class CfgVehicles
     class custom_gorkapants: GorkaPants_ColorBase               // custom_gorkapants can be change to whatever you want the class name of your custom gorka pants to be
     {
         displayName="Custom gorka pants";               // Display name of item ingame
-        descriptionShort="Write a short description of your beanie here if you like, or remove this text";
+        descriptionShort="Write a short description of your pants here if you like, or remove this text";
         scope=2;
-		itemsCargoSize[]={10,30};               // Items inventory size. 10,30=500 slots. 10 Horizontally 50 Vertically. Can be changed
+		itemsCargoSize[]={10,30};               // Items inventory size. 10,30=300 slots. 10 Horizontally 30 Vertically. Can be changed
         hiddenSelectionsTextures[]=
         {
             "filepath_to\custom_gorkapants.paa",                // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
