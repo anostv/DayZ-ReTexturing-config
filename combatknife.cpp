@@ -26,7 +26,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"filepath_to\custom_combat_knife.paa"				// Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
+			"filepath_to\custom_combat_knife.paa"				// Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa",
 		};
 	};
 };
