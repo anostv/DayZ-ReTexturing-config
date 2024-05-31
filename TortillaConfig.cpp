@@ -32,7 +32,7 @@ class cfgVehicles
         itemSize[] = {2,2};             // How many slots the item will use if put into players inventory 
         itemsCargoSize[] = {10,50};             // Items inventory size. 10,50=500 slots. 10 Horizontally 50 Vertically
         hiddenSelections[] = {"camoGround","camoMale","camoFemale"};
-        hiddenSelectionsTextures[] = {"filepath\custom_tortilla_bag","filepath\custom_tortilla_bag","filepath\custom_tortilla_bag"};                // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa"
+        hiddenSelectionsTextures[] = {"filepath\custom_tortilla_bag","filepath\custom_tortilla_bag","filepath\custom_tortilla_bag"};                // Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa"
         class ClothingTypes
         {
             male = "\DZ\characters\backpacks\tortilla_m.p3d";
