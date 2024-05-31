@@ -29,9 +29,9 @@ class CfgVehicles
 		itemsCargoSize[]={10,30};               // Items inventory size. 10,30=300 slots. 10 Horizontally 30 Vertically. Can be changed
         hiddenSelectionsTextures[]=
         {
-            "filepath_to\custom_gorkapants.paa",                // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
-            "filepath_to\custom_gorkapants.paa",                // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
-            "filepath_to\custom_gorkapants.paa"                 // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
+            "filepath_to\custom_gorkapants.paa",                // Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa",
+            "filepath_to\custom_gorkapants.paa",                // Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa",
+            "filepath_to\custom_gorkapants.paa"                 // Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa",
         };
     };
 };
