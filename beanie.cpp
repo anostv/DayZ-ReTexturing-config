@@ -28,9 +28,9 @@ class CfgVehicles
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "filepath_to\custom_beanie.paa",             // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
-            "filepath_to\custom_beanie.paa",             // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
-            "filepath_to\custom_beanie.paa"              // Change this to "filepath_were_your_texture_file_and_config_is\name_of_texturefile.paa",
+            "filepath_to\custom_beanie.paa",             // Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa",
+            "filepath_to\custom_beanie.paa",             // Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa",
+            "filepath_to\custom_beanie.paa"              // Change this to "filepath_were_your_texture_file_is\name_of_texturefile.paa",
         };
     };
 };
