@@ -6,7 +6,7 @@
  - [Beanie](https://github.com/originalcapp/DayZ-ReTexturing-config/blob/main/Beanie.cpp)
  - Combat Boots
  - Combat Knife
- - [Gorka Pants)(https://github.com/originalcapp/DayZ-ReTexturing-config/blob/main/GorkaPants.cpp)
+ - [Gorka Pants](https://github.com/originalcapp/DayZ-ReTexturing-config/blob/main/GorkaPants.cpp)
  - [Hoodie](https://github.com/originalcapp/DayZ-ReTexturing-config/blob/main/Hoodie.cpp)
  - Tactical Gloves
  - Tortilla backpack
