@@ -2,7 +2,7 @@
 ### Very simple config files for retexturing vanilla clothes/gear ###
 
  Config files for:
- - Bandana
+ - [Bandana](https://github.com/originalcapp/DayZ-ReTexturing-config/blob/main/GorkaPants.cpp)
  - Beanie
  - Combat Boots
  - Combat Knife
